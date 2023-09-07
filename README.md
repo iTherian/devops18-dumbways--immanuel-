@@ -1,4 +1,5 @@
 # devops18-dumbways--immanuel-
+# Week 1
 ## 1. Definisi DevOps
 
 Devops adalah kemampuan organisasi untuk membuat aplikasi dan layanan bergerak lebih efisien
