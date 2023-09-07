@@ -1,10 +1,11 @@
 # devops18-dumbways--immanuel-
 # Week 1
-## 1. Definisi DevOps
+## Day 1
+### 1. Definisi DevOps
 
 Devops adalah kemampuan organisasi untuk membuat aplikasi dan layanan bergerak lebih efisien
 
-## 2. Sebutkan lifecycle DevOps (Continuous ...) dan Jelaskan definisi-definisinya!
+### 2. Sebutkan lifecycle DevOps (Continuous ...) dan Jelaskan definisi-definisinya!
 1. Pengembanagn:
    Perencanaan: Merencanakan fitur atau perubahan yang akan diterapkan dalam perangkat lunak.
    Kode: Menulis kode perangkat lunak dengan mempertimbangkan prinsip-prinsip pengembangan terbaik
