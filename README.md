@@ -30,3 +30,28 @@ Devops adalah kemampuan organisasi untuk membuat aplikasi dan layanan bergerak l
 6. Feedback
    Pengumpulan data pengguna: Data dari pengguna digunakan untuk megevaluasi penggunaan pernagkat lunak dan memahami kebutuhan mereka.
    Evaluasi Kinerja: Kinerja siklus hidup Devops dievaluasi secara berkala.
+
+   ## Day 2
+   ### 1. Perbedaan antara IP Private & Public, serta IP Dynamic & Static!
+   IP Private :
+   - IP private adalah alamat IP yang digunakan dalam jaringan lokal (LAN) pribadi.
+   - IP private digunakan untuk mengidentifikasi dan mengarahkan perangkat di dalam jaringan lokal, tetapi tidak dapat diakses langsung dari internet.
+
+   IP Public:
+   - IP public adalah alamat IP yang dapat diakses secara langsung dari internet.
+   - Setiap perangkat yang terhubung ke internet memiliki IP public yang unik.
+   - IP public digunakan untuk mengidentifikasi perangkat di seluruh internet dan memungkinkan komunikasi antarperangkat di seluruh dunia.
+
+   IP Dynamic
+   - IP dynamic adalah alamat IP yang diberikan secara dinamis kepada perangkat oleh server DHCP (Dynamic Host Configuration Protocol) di jaringan.
+   - Setiap kali perangkat terhubung ke jaringan, server DHCP akan menetapkan alamat IP yang tersedia secara dinamis kepada perangkat tersebut.
+   - IP dynamic sering digunakan dalam jaringan rumahan dan bisnis kecil karena mereka lebih mudah dikelola.
+
+   IP Static
+   - IP static adalah alamat IP yang diberikan secara tetap kepada perangkat dan tidak berubah seiring waktu.
+   - IP statis sering digunakan dalam bisnis besar, server, dan perangkat jaringan kritis yang memerlukan stabilitas alamat IP yang konsisten.
+
+   ### 2. Buat rancangan sebuah jaringan dengan spesifikasi sebagai berikut!
+      ###- CIDR Block : 192.168.1.xxx/24
+      ###- Subnet : 255.255.255.0
+      ###- Gateway : 192.168.1.1
