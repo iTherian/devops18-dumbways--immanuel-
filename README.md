@@ -52,6 +52,6 @@ Devops adalah kemampuan organisasi untuk membuat aplikasi dan layanan bergerak l
    - IP statis sering digunakan dalam bisnis besar, server, dan perangkat jaringan kritis yang memerlukan stabilitas alamat IP yang konsisten.
 
    ### 2. Buat rancangan sebuah jaringan dengan spesifikasi sebagai berikut!
-      ###- CIDR Block : 192.168.1.xxx/24
-      ###- Subnet : 255.255.255.0
-      ###- Gateway : 192.168.1.1
+      - CIDR Block : 192.168.1.xxx/24
+      - Subnet : 255.255.255.0
+      - Gateway : 192.168.1.1
